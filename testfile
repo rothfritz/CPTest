@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hallo,  das ist ein Testfile. Ich teste git in den Carpentries. Und hier habe ich im branch Experiment ein paar Änderungen vorgenommen.
+=======
+Hallo,  das ist ein Testfile. Ich teste git in den Carpentries . Und jetzt versuche ich nochmal was zu ändern in einem anderen Branch!
+>>>>>>> 4750ae8... andere änderungen an file
