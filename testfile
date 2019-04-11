@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hallo,  das ist ein Testfile. Ich teste git in den Carpentries. Und hier habe ich im branch Experiment ein paar Änderungen vorgenommen.
 =======
 Hallo,  das ist ein Testfile. Ich teste git in den Carpentries . Und jetzt versuche ich nochmal was zu ändern in einem anderen Branch!
@@ -7,3 +8,6 @@ Hallo,  das ist ein Testfile. Ich teste git in den Carpentries . Und jetzt versu
 =======
 Hallo,  das ist ein Testfile. Ich teste git in den Carpentries. Und hier habe ich im branch Experiment ein paar Änderungen vorgenommen.
 >>>>>>> Experiment
+=======
+Hallo,  das ist ein Testfile. Ich teste git in den Carpentries . Und jetzt versuche ich nochmal was zu ändern in einem anderen Branch!
+>>>>>>> testbranch
